@@ -1,2 +1,2 @@
-# phyton-project
+# pyhton-project
 hands on yapıyoruz
